@@ -9,10 +9,14 @@
 ![Redux](https://img.shields.io/badge/<Redux>-000000?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/<JavaScript>-000000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/<TypeScript>-000000?style=for-the-badge&logo=TypeScript)
+![Axios](https://img.shields.io/badge/<Axios>-000000?style=for-the-badge&logo=Axios)
 ![Sass](https://img.shields.io/badge/<Sass>-000000?style=for-the-badge&logo=Sass)
 ![Git](https://img.shields.io/badge/<Git>-000000?style=for-the-badge&logo=Git)
 ![.Net](https://img.shields.io/badge/<Framework>-000000?style=for-the-badge&logo=.net)
 ![Tailwind](https://img.shields.io/badge/<Tailwind>-000000?style=for-the-badge&logo=Tailwind)
-![Axios](https://img.shields.io/badge/<Axios>-000000?style=for-the-badge&logo=Axios)
 
-Follow ME
+
+### Follow ME
+[![Telegram](https://img.shields.io/badge/<Telegram>-000000?style=for-the-badge&logo=Telegram)](https://tlgg.ru/skaterpunisher)
+[![Instagram](https://img.shields.io/badge/<Instagram>-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/art_zykov/)
+[![Vkontakte](https://img.shields.io/badge/<Vkontakte>-000000?style=for-the-badge&logo=Vk&)](https://vk.com/art_zykov)
