@@ -7,14 +7,17 @@
 ### Languages and Tools
 ![React](https://img.shields.io/badge/<React>-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/<Next.js>-000000?style=for-the-badge&logo=next)
-![Redux](https://img.shields.io/badge/<Redux>-000000?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/<JavaScript>-000000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/<TypeScript>-000000?style=for-the-badge&logo=TypeScript)
-![Axios](https://img.shields.io/badge/<Axios>-000000?style=for-the-badge&logo=Axios)
+![Redux](https://img.shields.io/badge/<Redux>-000000?style=for-the-badge&logo=Redux)
+![Tailwind](https://img.shields.io/badge/<Tailwind>-000000?style=for-the-badge&logo=Tailwind)
+![AntDesign](https://img.shields.io/badge/<AntDesign>-000000?style=for-the-badge&logo=AntDesign)
 ![Sass](https://img.shields.io/badge/<Sass>-000000?style=for-the-badge&logo=Sass)
+![StyledComponent](https://img.shields.io/badge/<StyledComponent>-000000?style=for-the-badge&logo=styledcomponent)
+![Axios](https://img.shields.io/badge/<Axios>-000000?style=for-the-badge&logo=Axios)
 ![Git](https://img.shields.io/badge/<Git>-000000?style=for-the-badge&logo=Git)
 ![.Net](https://img.shields.io/badge/<Framework>-000000?style=for-the-badge&logo=.net)
-![Tailwind](https://img.shields.io/badge/<Tailwind>-000000?style=for-the-badge&logo=Tailwind)
+
 
 
 ### Follow ME
