@@ -1,6 +1,6 @@
 [![Header](https://github.com/SkaterPunisher/SkaterPunisher/blob/main/assets/logo.png)](https://www.instagram.com/art_zykov/)
 
-## At the moment I am looking for a job/internship in a company with a modern stack: React (Next.js) + Redux-toolkit + TypeScript and etc. I can: develop an application on React, make queries using Axios + React Query, implement Redux Toolkit into the project, adapt the site to mobile devices, deploy the application, use SCSS and Tailwind. 
+## At the moment I am looking for a job in a company with a modern stack: React (Next.js) + TypeScript (JavaScript) + Redux-toolkit and etc. I can: develop an application on React (Next.js), make queries using Axios + React Query, implement Redux Toolkit into the project, adapt the site to mobile devices, deploy the application, use SCSS and Tailwind, AntDesign. 
 
 ##  I am fond of photography and snowboarding.
 
