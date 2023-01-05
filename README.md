@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/<TypeScript>-000000?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/<JavaScript>-000000?style=for-the-badge&logo=JavaScript)
 ![Redux](https://img.shields.io/badge/<Redux>-000000?style=for-the-badge&logo=Redux)
+![Redux Toolkit](https://img.shields.io/badge/<Redux_Toolkit>-000000?style=for-the-badge&logo=Redux Toolkit)
 ![RTK Query](https://img.shields.io/badge/<RTK_Query>-000000?style=for-the-badge&logo=RTK_Query)
 ![Tailwind](https://img.shields.io/badge/<Tailwind>-000000?style=for-the-badge&logo=Tailwind)
 ![AntDesign](https://img.shields.io/badge/<AntDesign>-000000?style=for-the-badge&logo=AntDesign)
