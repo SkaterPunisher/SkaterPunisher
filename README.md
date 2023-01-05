@@ -13,9 +13,12 @@
 ![RTK Query](https://img.shields.io/badge/<RTK_Query>-000000?style=for-the-badge&logo=RTK_Query)
 ![Tailwind](https://img.shields.io/badge/<Tailwind>-000000?style=for-the-badge&logo=Tailwind)
 ![AntDesign](https://img.shields.io/badge/<AntDesign>-000000?style=for-the-badge&logo=AntDesign)
+![Framer motion](https://img.shields.io/badge/<Framer_motion>-000000?style=for-the-badge&logo=Framermotion)
 ![Sass](https://img.shields.io/badge/<Sass>-000000?style=for-the-badge&logo=Sass)
 ![Styled Component](https://img.shields.io/badge/<Styled_Component>-000000?style=for-the-badge&logo=styledcomponent)
 ![Axios](https://img.shields.io/badge/<Axios>-000000?style=for-the-badge&logo=Axios)
+![i18n](https://img.shields.io/badge/<i18n>-000000?style=for-the-badge&logo=i18n)
+![Webpack](https://img.shields.io/badge/<Webpack>-000000?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/<Git>-000000?style=for-the-badge&logo=Git)
 ![.Net](https://img.shields.io/badge/<Framework>-000000?style=for-the-badge&logo=.net)
 
