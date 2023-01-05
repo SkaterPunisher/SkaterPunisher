@@ -6,6 +6,7 @@
 
 ### Languages and Tools
 ![React](https://img.shields.io/badge/<React>-000000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/<Next.js>-000000?style=for-the-badge&logo=next)
 ![Redux](https://img.shields.io/badge/<Redux>-000000?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/<JavaScript>-000000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/<TypeScript>-000000?style=for-the-badge&logo=TypeScript)
