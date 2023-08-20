@@ -2,7 +2,15 @@
 
 ## Frontend developer Next.js (React) on TypeScript (JavaScript) since 2020. I have been developing SPA and SSR applications for the last few years.
 ## My stack: 
-## - Next.js | React | TypeScript | JavaScript | Redux-toolkit | RTK-Query | Axios | REST API | i18n | SCSS | Tailwind | Framer Motion | MUI | Jest | Sanity.io | Сhart.js | xlsx | PostMan
+### - Next.js | React 
+### - TypeScript | JavaScript 
+### - Redux-toolkit | RTK-Query 
+### - Axios | REST API 
+### - i18n | Framer Motion
+### - SCSS | Tailwind | MUI 
+### - Jest | React testing library
+### - Git | HTML | CSS
+### - Sanity.io | Сhart.js | xlsx | PostMan
 
 ##  I am fond of photography and snowboarding.
 
