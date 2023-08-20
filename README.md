@@ -1,10 +1,8 @@
 [![Header](https://github.com/SkaterPunisher/SkaterPunisher/blob/main/assets/logo.png)](https://www.instagram.com/art_zykov/)
 
-## Frontend developer Next.js (React) on TypeScript (JavaScript) since 2021. I have been developing SPA and SSR applications for the last two years.
+## Frontend developer Next.js (React) on TypeScript (JavaScript) since 2020. I have been developing SPA and SSR applications for the last few years.
 ## My stack: 
-## - Next.js | React | TypeScript | JavaScript | Redux-toolkit | RTK-Query | Axios | Framer Motion | MUI | Ant-Design | Сhart.js | xlsx | MongoDB | PostMan
-## - HTML, CSS/SCSS (Tailwind, Adaptive cross-browser layout, flex, grid...)
-## - Git (Gitlab / GitHub)
+## - Next.js | React | TypeScript | JavaScript | Redux-toolkit | RTK-Query | Axios | REST API | i18n | SCSS | Tailwind | Framer Motion | MUI | Jest | Sanity.io | Сhart.js | xlsx | PostMan
 
 ##  I am fond of photography and snowboarding.
 
